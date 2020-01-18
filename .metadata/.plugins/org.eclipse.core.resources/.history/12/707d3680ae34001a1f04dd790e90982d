@@ -1,0 +1,22 @@
+package com.Graph.Problems;
+
+import java.util.LinkedList;
+
+public class GraphIntro {
+	
+	static class Graph{
+		
+		int V;
+		LinkedList<Integer> adjListArray[];
+		
+		Graph(int v){
+			
+		}
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

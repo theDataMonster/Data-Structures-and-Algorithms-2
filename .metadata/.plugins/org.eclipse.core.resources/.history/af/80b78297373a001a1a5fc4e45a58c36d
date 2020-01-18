@@ -1,0 +1,16 @@
+package com.Graph.Problems;
+
+public class EndOfArray {
+	
+	static int getMinStepsToReachEnd(int arr[], int N) {
+		
+		boolean[] visit=new boolean[N];
+		
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

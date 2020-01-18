@@ -1,0 +1,20 @@
+package com.Graph.Problems;
+
+public class XtoYConvert {
+	
+	int val;
+	int steps;
+	
+	public XtoYConvert(int val, int steps) {
+		
+		this.val=val;
+		this.steps=steps;
+		
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,25 @@
+package com.BinaryTree.InorderWithStack;
+
+class Node{
+	
+	int data;
+	Node left,right;
+	
+	public Node(int item) {
+		data=item;
+		left=right=null;
+		
+	}
+}
+
+public class InorderWithStack {
+	
+	Node root;
+	
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

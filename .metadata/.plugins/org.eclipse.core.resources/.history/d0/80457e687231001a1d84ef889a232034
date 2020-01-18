@@ -1,0 +1,16 @@
+package com.BinaryTree.SymmetricTree;
+
+class Node{
+	
+	int key;
+	
+}
+
+public class SymmetricTree {
+	
+	public static void main(String[] args) {
+		
+		
+	}
+
+}

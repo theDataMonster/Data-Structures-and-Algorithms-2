@@ -1,0 +1,35 @@
+package com.Graph.Problems;
+
+import java.util.HashSet;
+import java.util.LinkedList;
+import java.util.Set;
+
+class Structure{
+	
+	int val;
+	int steps;
+	
+	public Structure(int val, int steps) {
+		
+		this.val=val;
+		this.steps=steps;
+	}
+}
+
+public class XtoYConvert {
+	
+	private static int minOperations(int src, int target) {
+		
+		Set<Structure> visited=new HashSet<>(1000);
+		LinkedList<Structure> queue=new LinkedList<Structure>();
+		
+		
+	}
+
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

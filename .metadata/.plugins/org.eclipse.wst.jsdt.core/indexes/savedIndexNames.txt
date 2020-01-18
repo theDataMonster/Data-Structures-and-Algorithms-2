@@ -1,0 +1,13 @@
+INDEX VERSION 1.4+C:\Users\Pratyush\DSAlgo_WS\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3501647858.index
+3498066710.index
+3003411528.index
+3291002090.index
+1105380019.index
+2228597084.index
+2995834453.index
+356646303.index
+2768267610.index
+527231807.index
+2361772636.index
+2083352599.index

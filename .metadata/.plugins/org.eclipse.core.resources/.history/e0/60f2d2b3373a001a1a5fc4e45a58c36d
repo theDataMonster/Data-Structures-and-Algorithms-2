@@ -1,0 +1,22 @@
+package com.Graph.Problems;
+
+import java.util.Vector;
+
+public class EndOfArray {
+	
+	static int getMinStepsToReachEnd(int arr[], int N) {
+		
+		boolean[] visit=new boolean[N];
+		
+		int[] distance=new int[N];
+		
+		Vector<Integer> digit[]=new Vector[10];
+		
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

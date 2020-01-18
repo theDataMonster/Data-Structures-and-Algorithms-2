@@ -1,0 +1,23 @@
+package com.Graph.Problems;
+
+class Structure{
+	
+	int val;
+	int steps;
+	
+	public Structure(int val, int steps) {
+		
+		this.val=val;
+		this.steps=steps;
+	}
+}
+
+public class XtoYConvert {
+
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
